@@ -2,5 +2,6 @@ yoghurt
 sponges
 bananas
 soup mix
-celery 
-carrots 
+celery
+carrots
+ballymaloe relish
