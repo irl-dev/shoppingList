@@ -2,3 +2,4 @@ yoghurt
 sponges
 bananas
 soup mix
+celery 
