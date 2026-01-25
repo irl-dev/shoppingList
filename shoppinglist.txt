@@ -4,7 +4,6 @@ bananas
 soup mix
 celery
 carrots
-ballymaloe relish
 rump steaks
 White cabbage
 plain flour
@@ -13,4 +12,4 @@ White Vinegar (cleaning)
 Bi Carbonate Soda
 hairspray
 flora
-hummus 
+hummus
