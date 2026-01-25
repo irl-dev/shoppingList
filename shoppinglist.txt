@@ -3,7 +3,6 @@ sponges
 bananas
 soup mix
 celery
-carrots
 rump steaks
 White cabbage
 plain flour
