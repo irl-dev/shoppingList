@@ -1,1 +1,1 @@
-[{"title":"bicarbonate of soda","isChecked":false},{"title":"shampoo","isChecked":false},{"title":"hairspray ","isChecked":false}]
+[{"title":"bicarbonate of soda","isChecked":false},{"title":"hairspray ","isChecked":false},{"title":"shampoo","isChecked":false}]
