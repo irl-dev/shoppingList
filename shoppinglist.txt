@@ -1,1 +1,1 @@
-[{"title":"bananas ","isChecked":true},{"title":"apples","isChecked":false}]
+[{"title":"bananas ","isChecked":true}]
