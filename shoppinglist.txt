@@ -1,1 +1,1 @@
-[{"title":"bicarbonate of soda","isChecked":false},{"title":"hairspray ","isChecked":false},{"title":"yoghurts ","isChecked":false},{"title":"bleach ","isChecked":false},{"title":"test","isChecked":false},{"title":"shampoo","isChecked":false},{"title":"shampoo","isChecked":true}]
+[{"title":"bicarbonate of soda","isChecked":false},{"title":"hairspray ","isChecked":false},{"title":"yoghurts ","isChecked":false},{"title":"bleach ","isChecked":false},{"title":"test","isChecked":true},{"title":"shampoo","isChecked":false},{"title":"shampoo","isChecked":true}]
