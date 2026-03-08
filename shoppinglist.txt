@@ -1,1 +1,1 @@
-[{"title":"bicarbonate of soda","isChecked":false},{"title":"White vinegar cleaning ","isChecked":false},{"title":"tuna","isChecked":false},{"title":"rinse aid","isChecked":true},{"title":"kitchen roll","isChecked":true}]
+[{"title":"bicarbonate of soda","isChecked":false},{"title":"White vinegar cleaning ","isChecked":false},{"title":"tuna","isChecked":false},{"title":"rinse aid","isChecked":true}]
