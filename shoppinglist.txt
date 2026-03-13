@@ -1,1 +1,1 @@
-[{"title":"bicarbonate of soda","isChecked":false},{"title":"White vinegar cleaning ","isChecked":false},{"title":"tomatoes ","isChecked":false},{"title":"pepper sauce","isChecked":false},{"title":"tuna","isChecked":true}]
+[{"title":"bicarbonate of soda","isChecked":false},{"title":"White vinegar cleaning ","isChecked":false},{"title":"tomatoes ","isChecked":false},{"title":"tuna","isChecked":true}]
